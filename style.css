@@ -1,0 +1,73 @@
+body{
+    height: 100vh;
+    margin: 0;
+}
+
+.logo{
+    max-width: 200px;
+   display: block;
+   margin: 0 auto;
+}
+
+.description1{
+    text-align: center;
+    color: darkgreen;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    background-color: rgb(250, 239, 211);
+}
+
+.content{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.titolo{
+    text-align: center;
+}
+
+.citazione {
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.imgFocaccia{
+    display: block;
+    margin: 10px auto;
+    max-width: 350px;
+    width: 100%;
+}
+
+.imgCredit{
+    text-align: center;
+    color: darkgrey;
+    padding-top: 5px;
+}
+
+.featured{
+    padding-top: 50px;
+    color: rgb(205, 6, 6);
+}
+
+.linkFeatured{
+    padding-bottom: 20px;
+    color: rgb(5, 162, 162);
+}
+
+.ingredients{
+    font-size: 2em;
+}
+
+.method{
+   display: flex;
+   flex-direction: column; 
+}
+
+.readMore{
+    padding-bottom: 2em;
+}
+
+.endLink{
+    color: rgb(5, 162, 162);  
+}
